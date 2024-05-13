@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Product Solution](https://bobfisherman18.github.io/product-preview-card-component/)
+- Solution URL: [Product Solution](https://www.frontendmentor.io/solutions/product-webpage-using-bootstrap-0JNFp0BBj-)
+- Live Site URL: [Product Webpage](https://bobfisherman18.github.io/product-preview-card-component/)
 
 ## My process
 
